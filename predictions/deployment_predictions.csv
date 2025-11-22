@@ -1,0 +1,2 @@
+unit,last_observed_cycle,predicted_RUL,urgency
+1,50,0.0,Critical
